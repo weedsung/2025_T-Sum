@@ -1,5 +1,5 @@
 """
-Week 04: 데이터 시각화 - matplotlib & seaborn 기초
+Week 03: 데이터 시각화 - matplotlib & seaborn 기초
 """
 
 import matplotlib.pyplot as plt
